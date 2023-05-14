@@ -4,8 +4,8 @@ Dalam Repository ini saya dan kelompok yakni Elon Musk dari Indonesia AI Compute
 
 - [VGG16](https://github.com/sadisad/FR-FaceClassificationByGender/tree/main/VGG16). (Take Over By Irsyad Dzulfikar)
 - [VGG19](https://github.com/sadisad/FR-FaceClassificationByGender/tree/main/VGG-19). (Take Over By Asrul Said)
-- [ResNet-18]() (Take Over By Daniel Riandy)
-- [Google Net Inception v1](). (Take Over By Bayu Dwi Prasetya)
+- [ResNet-18](https://github.com/sadisad/FR-FaceClassificationByGender/tree/main/ResNet_18) (Take Over By Daniel Riandy)
+- [Google Net Inception v1](https://github.com/sadisad/FR-FaceClassificationByGender/tree/main/Google-Net). (Take Over By Bayu Dwi Prasetya)
 
 ## Strategi Implementasi Model
 
